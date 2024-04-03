@@ -10,6 +10,7 @@ if delta > 0:
     print(f"Como delta é: {delta}, as raízes são reais e distintas ")
 elif delta == 0:
     print(f"Como delta é: {delta}, as raízes são reais e iguais ")
-else:
+elif delta < 0:
     print(f"Como delta é: {delta}, as raízes são imaginárias conjugadas ")
 
+aaaa
